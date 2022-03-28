@@ -1,5 +1,5 @@
 cc_library_shared {
-    name: "libqdMetaData.system",
+    name: "libqdMetaData.system_",
     system_ext_specific: true,
     cflags: [
         "-Wno-sign-conversion",
